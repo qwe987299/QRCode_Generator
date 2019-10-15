@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QRCode_Generator</string>
+    <string name="input_hint">請輸入要轉換的文字</string>
+    <string name="qrcode">QR Code Display</string>
+</resources>
